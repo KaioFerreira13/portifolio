@@ -29,12 +29,12 @@ Nele você altera **tudo**: nome, logo, bio (PT/EN), foto, projetos, experiênci
 
 ## 🔗 Link de Acesso
 O site está hospedado e pode ser acessado no seguinte link:
-**[Inserir Link do Site Publicado](#)**
+**[Portfólio](https://portifolio-two-sage.vercel.app/)**
 
 ## 🛠️ Tecnologias Utilizadas
 * **Front-end:** React 18 + Vite
 * **Estilização/Componentes:** Tailwind CSS + Material UI (MUI)
-* **Hospedagem em Nuvem:** Vercel *(sugerido)*
+* **Hospedagem em Nuvem:** Vercel
 * **Design/Prototipação:** Figma
 
 ## 📦 Dependências e Bibliotecas
@@ -92,11 +92,11 @@ Siga as etapas abaixo para rodar o projeto localmente em sua máquina.
 
 1. **Clone o repositório:**
    ```bash
-   git clone https://github.com/Mattheusgus/Matheus-Barbosa-LABORATORIO_1_LAB_DESENVOLVIMENTO_DE_SOFTWARE.git
+   git clone https://github.com/KaioFerreira13/portifolio.git
    ```
 2. **Acesse a pasta do projeto:**
    ```bash
-   cd Matheus-Barbosa-LABORATORIO_1_LAB_DESENVOLVIMENTO_DE_SOFTWARE
+   cd portifolio
    ```
 3. **Instale as dependências:**
    ```bash
@@ -116,11 +116,8 @@ npm run preview    # pré-visualiza o build localmente
 ```
 
 ## 🧑‍💻 Autores
-* **Matheus Barbosa**
-* **Cleverson Rosa**
-* **Rafael Lopes**
-* **Caio Ferreira**
+* **Kaio Ferreira**
 
 ## 🔗 Redes
-* [LinkedIn](#)
-* [GitHub](https://github.com/seu-usuario)
+* [LinkedIn](https://www.linkedin.com/in/kaio-ferreira-290716365/)
+* [GitHub](https://github.com/KaioFerreira13)

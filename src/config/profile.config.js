@@ -76,8 +76,8 @@ export const profile = {
       tags: ['React', 'Spring Boot', 'Tailwind', 'API', 'Mongo db'],
       repo: 'https://github.com/KaioFerreira13/Teste-pr-tico-dti-digital-Kaio-Ferreira.git',
       demo: '',
-      image: '', // ex.: '/profile/projeto1.png' (deixe vazio p/ usar o gradiente)
-      preview: 'from-cyan-500/20 via-fuchsia-500/10 to-transparent',
+      image: './profile/projeto1.png',
+
     },
     {
       id: 'projeto-2',
